@@ -18,11 +18,10 @@ npm install react-router-dom
 ```
 
 ---
-# notice
-after the latest update of spotify the api tokens of spotify respond with 404 error so it not gonna play any song 
-create a database and use this as your front-end 
-<for all the creators who are just stated react ptoject>
-connect your database as a server and call it using api call in front-end 
+
+## notice
+-
+After the latest update of Spotify, the API tokens from Spotify respond with a 404 error so it's not going to play any songs. Create a database and use this as your front-end for all creators who just started a React project. Connect your database as a server and call it using an API call in the front-end. 
 ---
 
 ## Project Structure
