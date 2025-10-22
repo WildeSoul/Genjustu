@@ -12,6 +12,7 @@
 ## Prerequisites
 Ensure you have the following dependencies installed before running the application:
 
+
 ```bash
 npm install react-icons --save
 npm install react-router-dom
